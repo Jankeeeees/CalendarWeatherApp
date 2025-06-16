@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calendar Weather</string>
+    <string name="app_name_long">My Calendar and Weather</string>
+    <string name="loading_weather">Loading weather…</string>
+    <string name="unknown_location">Unknown Location</string>
+    <string name="no_description">No description</string>
+    <string name="error_loading_weather_param">Error: %s</string>
+    <string name="retry">Retry</string>
+    <string name="refresh">Refresh</string>
+    <string name="add_event">Add Event</string>
+    <string name="delete_event">Delete Event</string>
+    <string name="events_for_selected_day">Events for %1$s:</string>
+    <string name="no_events_for_this_day">No events for this day.</string>
+    <string name="error_loading_events">Error loading events: %s</string>
+    <string name="add_new_event">Add New Event</string>
+    <string name="event_title">Title</string>
+    <string name="event_description_optional">Description (Optional)</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_cannot_be_empty">Title cannot be empty</string>
+    <!-- Add any other strings you need -->
+</resources>

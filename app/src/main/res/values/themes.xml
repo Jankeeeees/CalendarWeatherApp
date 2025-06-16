@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.CalendarWeatherApp" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Możesz tu dostosować podstawowe atrybuty systemowe, jeśli potrzebujesz,
+             ale większość stylizacji dla Compose będzie w Theme.kt -->
+        <!-- Przykład:
+        <item name="android:statusBarColor">@color/purple_700</item>
+        -->
+    </style>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme for dark mode. -->
+    <style name="Theme.CalendarWeatherApp" parent="android:Theme.Material.NoActionBar">
+        <!-- Przykład:
+        <item name="android:statusBarColor">@color/black</item>
+        -->
+    </style>
+</resources>
